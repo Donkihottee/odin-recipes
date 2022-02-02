@@ -1,0 +1,31 @@
+h2 {
+    background-color: red;
+    color: white;
+    text-size-adjust: 32px;
+    font-weight: bold;
+   }
+ 
+h3 {
+    background-color: blue;
+    color: darkred;
+    text-size-adjust: 28px ;
+    font-weight: lighter;
+}
+ul {
+    background-color: green;
+    color: red;
+    text-size-adjust: 25px;
+    font-weight: normal;
+}
+
+ol {
+background-color: yellow;
+color: tomato;
+text-size-adjust: 22px;
+font-weight: 800;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
