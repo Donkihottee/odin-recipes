@@ -1,0 +1,20 @@
+h2 {
+background-color: rebeccapurple;
+color: black;
+text-size-adjust: 28px;
+font-weight: bold;
+}
+
+ol {
+background-color: blueviolet;
+color: black;
+text-size-adjust: 28px;
+font-weight: 200;
+}
+
+ul {
+background-color: chocolate;
+color: crimson;
+text-size-adjust: 28px;
+font-weight: 800;
+}
